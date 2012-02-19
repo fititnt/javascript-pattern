@@ -1,0 +1,1 @@
+On this folder, just a few functions to make this repository Javascript Framework independent
