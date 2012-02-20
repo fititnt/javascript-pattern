@@ -1,4 +1,4 @@
-#### Javascript | Pattern | Adapter Pattern
+#### Javascript | Pattern | Observer Pattern
 
 
 #### How to use
@@ -10,14 +10,15 @@
 #### External References
 
 General reference, or not focused on Javascript
-- http://en.wikipedia.org/wiki/Adapter_pattern
-- http://www.dofactory.com/Patterns/PatternAdapter.aspx
+- http://en.wikipedia.org/wiki/Observer_pattern
+- http://www.dofactory.com/Patterns/PatternObserver.aspx
+- http://c2.com/cgi/wiki?ObserverPattern
+- 
 
 Javascript reference
 
-
 #### Todo
-- demonstrate this pattern (fititnt, 2012-02-19 20:28)
+- Demonstrate this pattern (fititnt, 2012-02-19 20:28)
 
 #### Changelog
 <pre>

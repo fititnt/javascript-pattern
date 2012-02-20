@@ -1,4 +1,4 @@
-#### Javascript | Pattern | Adapter Pattern
+#### Javascript | Pattern | Bridge Pattern
 
 
 #### How to use
@@ -10,14 +10,14 @@
 #### External References
 
 General reference, or not focused on Javascript
-- http://en.wikipedia.org/wiki/Adapter_pattern
-- http://www.dofactory.com/Patterns/PatternAdapter.aspx
+- http://en.wikipedia.org/wiki/Bridge_pattern
+- http://www.dofactory.com/Patterns/PatternBridge.aspx
 
 Javascript reference
-
+- http://www.codeproject.com/Articles/15665/Bridge-design-pattern-with-JavaScript
 
 #### Todo
-- demonstrate this pattern (fititnt, 2012-02-19 20:28)
+- Demonstrate this pattern (fititnt, 2012-02-19 20:28)
 
 #### Changelog
 <pre>

@@ -1,4 +1,4 @@
-#### Javascript | Pattern | Adapter Pattern
+#### Javascript | Pattern | Module Pattern
 
 
 #### How to use
@@ -10,14 +10,14 @@
 #### External References
 
 General reference, or not focused on Javascript
-- http://en.wikipedia.org/wiki/Adapter_pattern
-- http://www.dofactory.com/Patterns/PatternAdapter.aspx
 
 Javascript reference
-
+- http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
+- http://www.engfers.com/code/javascript-module-pattern/
+- http://www.yuiblog.com/blog/2007/06/12/module-pattern/
 
 #### Todo
-- demonstrate this pattern (fititnt, 2012-02-19 20:28)
+- Demonstrate this pattern (fititnt, 2012-02-19 20:28)
 
 #### Changelog
 <pre>

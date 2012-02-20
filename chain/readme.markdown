@@ -1,4 +1,4 @@
-#### Javascript | Pattern | Adapter Pattern
+#### Javascript | Pattern | Chain of Responsibility Design Pattern
 
 
 #### How to use
@@ -9,15 +9,11 @@
 
 #### External References
 
-General reference, or not focused on Javascript
-- http://en.wikipedia.org/wiki/Adapter_pattern
-- http://www.dofactory.com/Patterns/PatternAdapter.aspx
-
-Javascript reference
-
+- http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
+- http://www.dofactory.com/Patterns/PatternChain.aspx
 
 #### Todo
-- demonstrate this pattern (fititnt, 2012-02-19 20:28)
+- Demonstrate this pattern (fititnt, 2012-02-19 20:28)
 
 #### Changelog
 <pre>
